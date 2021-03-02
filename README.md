@@ -1,7 +1,7 @@
 # Tên theme
  Zendo
 ## Giới thiệu
-    Là theme free của sapo.net dùng trong lĩnh vực ecommerce.
+    Là theme free của Sapo.net dùng trong lĩnh vực ecommerce.
     Có giao diện đẹp và tuỳ biến người dùng.
     Theme xịn bao xài.
 
