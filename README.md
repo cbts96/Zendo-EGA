@@ -1,14 +1,19 @@
 # Tên theme
  Zendo
 ## Giới thiệu
-
-Theme xịn bao xài
+    Là theme free của sapo.net dùng trong lĩnh vực ecommerce.
+    Có giao diện đẹp và tuỳ biến người dùng.
+    Theme xịn bao xài.
 
 ## Cài đặt / Thiết lập (optional)
-
-Lên store tải về
+    Dùng chức năng google search theme Zendo và apply vào tài khoản Sapo của mình.
+    Trong giao diện Sapo chọn mục website->Thao tác và tuỳ chỉnh cho phù hợp.
+    
 
 ## Tính năng nổi bật
 
-- Preview sản phẩm 3D
-- 72 layout sản phẩm
+- Shopping Cart
+- Related Product
+- Impressive Product
+- Blog
+- CTA
